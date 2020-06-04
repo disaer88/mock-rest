@@ -1,6 +1,6 @@
 # Getting Started  
 
-Скачать последнию версию с https://github.com/cancelpwnz/IbaMockRest/releases/latest
+Скачать последнию версию с https://github.com/cancelpwnz/mock-rest/releases/latest
 
 Команда запуска приложения  **java -jar  *path_to_jar***
 пример **java -jar ‪c:\my_jar.jar**
